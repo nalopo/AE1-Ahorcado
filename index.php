@@ -61,6 +61,7 @@ if ($_SESSION['vidas'] <= 0) {
 <html lang="es">
 <head>
     <meta charset="UTF-8">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Juego del Ahorcado</title>
     <link rel="stylesheet" href="estilos.css">
@@ -96,3 +97,4 @@ if ($_SESSION['vidas'] <= 0) {
 
 </body>
 </html>
+
